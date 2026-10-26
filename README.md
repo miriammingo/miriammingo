@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Míriam 👋
 
-<!--
-**miriammingo/miriammingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying **Mathematical Engineering and Artificial Intelligence** at Universidad Pontificia Comillas – ICAI.
 
-Here are some ideas to get you started:
+I'm particularly interested in **machine learning, artificial intelligence and algorithms**, and in how mathematics and programming can be applied to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### 🤖 Intelligent Agents under Uncertainty
+Autonomous agents using logical reasoning, Bayesian inference, search algorithms and Markov Decision Processes.
+
+### 📊 Student Success Prediction with Machine Learning
+Analysis of university student performance through classification, regression and unsupervised learning.
+
+### 🗺️ Madrid Route Planner
+Graph-based routing system using real OpenStreetMap data and Dijkstra's shortest-path algorithm.
+
+## Technologies
+
+**Programming:** Python · R · SQL · C# · MATLAB  
+**AI & Data:** Scikit-learn · Pandas · NumPy  
+**Databases:** MySQL · MongoDB · Neo4j  
+**Tools:** Git · GitHub · Linux/Bash

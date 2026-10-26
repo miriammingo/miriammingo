@@ -6,14 +6,17 @@ I'm particularly interested in **machine learning, artificial intelligence and a
 
 ## Featured Projects
 
-### 🤖 Intelligent Agents under Uncertainty
+### 🤖 [Intelligent Agents under Uncertainty](https://github.com/miriammingo/intelligent-agents-under-uncertainty)
 Autonomous agents using logical reasoning, Bayesian inference, search algorithms and Markov Decision Processes.
 
-### 📊 Student Success Prediction with Machine Learning
+### 📊 [Student Success Prediction with Machine Learning](https://github.com/miriammingo/student-success-machine-learning)
 Analysis of university student performance through classification, regression and unsupervised learning.
 
-### 🗺️ Madrid Route Planner
+### 🗺️ [Madrid Route Planner](https://github.com/AngelaPorres/madrid-route-planner)
 Graph-based routing system using real OpenStreetMap data and Dijkstra's shortest-path algorithm.
+
+### 🗄️ [Amazon Reviews Data Platform](https://github.com/miriammingo/amazon-reviews-data-platform)
+Hybrid data platform integrating MySQL, MongoDB and Neo4j for review storage, data analysis, graph modelling and recommendations.
 
 ## Technologies
 
